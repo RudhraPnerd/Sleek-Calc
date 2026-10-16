@@ -1,0 +1,5 @@
+APPEARANCE = 'system'
+THEME = 'blue'
+WINDOW_TITLE = 'Sleek Calc'
+WINDOW_SIZE = '400, 400'
+FONT = 'Arial'
